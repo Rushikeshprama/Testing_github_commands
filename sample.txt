@@ -2,4 +2,4 @@ Hello There
 
 (how are you from Feature Branch ---------1) 
 
-2nd Line this is for new branch ----- make changes from GUI side -- again new from GUI
+2nd Line this is for new branch ----- make changes from GUI side -- again new from GUI 
